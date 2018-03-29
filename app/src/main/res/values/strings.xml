@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoList App</string>
+    <string name="action_settings">Settings</string>
+    <string name="PickColor">Pick A Colour</string>
+    <string-array name="pickColor">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+    </string-array>
+</resources>
